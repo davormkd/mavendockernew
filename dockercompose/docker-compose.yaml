@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  myservice:
+    image: myproj:latest
+    container_name: neuer-container-name
+    # Weitere Konfigurationsoptionen für deinen Service
